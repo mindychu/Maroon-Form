@@ -1,0 +1,66 @@
+body{
+    background-color: #aeaeae;
+}
+main{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #aeaeae;
+}
+p{
+    color: black;
+}
+form{
+    width: 350px;
+    background-color: #730d3d;
+    margin: 0 auto;
+    border-radius: 16px;
+    padding: 10px;
+}
+label{
+    color: white;
+}
+input {
+    display: block;
+    width: 310px;
+    height: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px inset grey;
+    margin-top: 10px;
+}
+select{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#myzip{
+    width: 90px;
+}
+
+#prefEmail, #prefPhone{
+    display: inline;
+    width: 20px;
+    height: 17px;
+}
+#label-block{
+    display: block;
+    margin-top: 10px;
+}
+#myReset, #mySubmit{
+    width: 100px;
+    display: inline;
+}
+#myButtons{
+    margin: 0 auto;
+    width: 225px;
+}
+fieldset{
+    width: 300px;
+    border-radius: 5px;
+}
+legend{
+    color: white;
+}
+textarea{
+    border-radius: 5px;
+}
